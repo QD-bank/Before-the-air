@@ -1,0 +1,58 @@
+/*css reset*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+*::before, *::after{box-sizing:border-box;}
+
+ul,ol{
+    list-style: none;
+}
+
+/* style */
+
+body{
+    background: #eee;
+}
+
+.globalHeader{
+margin: 20px;
+}
+
+.globalHeader > input{
+
+}
+
+.globalHeader > button{
+
+}
+
+.globalMain{
+
+}
+
+.siteList{
+
+}
+
+.siteList > li{
+
+}
+
+.siteList .site{
+
+}
+
+.sitelist .site > .logo{
+    
+}
+
+.sitelist .site > .link{
+
+}
+
+.siteList .addButton{
+
+}
